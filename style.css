@@ -20,7 +20,8 @@
     left: 0;
     width: 100%;
     padding: 0.5rem 0%;
-    background: rgb(226 225 225);
+/*     background: rgb(226 225 225); */
+    background:rgb(197, 152, 251);
     display: flex;
     justify-content: space-around;
     align-items: center;
@@ -38,7 +39,8 @@
 }
 .navbar a{
     font-size: 1.7rem;
-    color: #b28d99;
+/*     color: #b28d99;*/
+    color: white;
     margin-right: 4rem;
     text-decoration: none;
 }
