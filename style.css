@@ -61,7 +61,8 @@
 #menu-icon{
     display: none;
     font-size: 3.6rem;
-    color: #b28d99;
+/*     color: #b28d99; */
+    color:white;
 }
 /*-------------------------home------------------------ */
 .hero{
@@ -130,7 +131,8 @@ section{
 .about_us {
     font-size: 2.4rem;
     font-weight: 900;
-    color:rgb(133 103 124);
+/*     color:rgb(133 103 124); */
+    color:white;
     justify-content: center;
     display: flex;
 }
@@ -525,6 +527,9 @@ section{
     }
     .box-panel{
         margin-left: 10vw;
+    }
+    .snd-name{
+    margin-top:-0.5rem;
     }
     
 }
