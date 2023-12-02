@@ -45,7 +45,8 @@
     text-decoration: none;
 }
 .navbar a:hover{
-    color:rgb(197, 152, 251);
+/*     color:rgb(197, 152, 251); */
+    color:black;
 }
 .nav-icon{
     display: flex;
@@ -119,7 +120,7 @@ section{
     border: 2px solid transparent;
 }
 .navbar2{
-    background-color: rgb(241 241 241);
+/*     background-color: rgb(241 241 241); */
         background:rgb(197, 152, 251);
     width: 90%;
     margin-left: 5%;
@@ -178,8 +179,9 @@ section{
     display: flex;
 }
 .box-panel{ 
-/*     background-color: rgb(255, 255, 255); */
-        background:rgb(197, 152, 251);
+    background-color: rgb(255, 255, 255);
+/*         background:rgb(197, 152, 251); */
+    
     height: 6rem;
     width: 20rem;
     margin-right: 4rem;
